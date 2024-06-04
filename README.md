@@ -163,6 +163,8 @@ logfile: "/var/log/app.log"
 ![schema](./png/typeDebug.png)
 
 ### Тести
+![schema](./png/githubtests.png)
+
 ![schema](./png/test1.png)
 
 ![schema](./png/test2.png)
